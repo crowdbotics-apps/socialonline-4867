@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT socialonline_4867.wsgi:application
